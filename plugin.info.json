@@ -1,0 +1,9 @@
+{
+    "id":"demo-plugin",
+    "name": "Demo Plugin",
+    "description": "This is a demo plugin",
+    "version": "v1.0.0",
+    "type": "DEMO",
+    "repo": "https://github.com/trowdan/test-download-plugin",
+    "entry-point": "demo-plugin.py"
+}
